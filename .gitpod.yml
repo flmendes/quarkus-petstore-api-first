@@ -11,3 +11,4 @@ vscode:
   - vscjava.vscode-lombok
   - redhat.vscode-quarkus
   - vscjava.vscode-lombok
+  - EditorConfig.EditorConfig

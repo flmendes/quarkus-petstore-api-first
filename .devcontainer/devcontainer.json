@@ -27,7 +27,8 @@
 		"Pivotal.vscode-boot-dev-pack",
 		"mhutchie.git-graph",
 		"vscjava.vscode-lombok",
-		"redhat.vscode-quarkus"
+		"redhat.vscode-quarkus",
+        "EditorConfig.EditorConfig"
 	],
 	"forwardPorts": [8080],
 	"settings": {
