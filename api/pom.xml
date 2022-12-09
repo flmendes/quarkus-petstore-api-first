@@ -10,6 +10,8 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
+    <packaging>jar</packaging>
+
     <groupId>io.flmendes</groupId>
     <artifactId>quarkus-petstore-api-first.api</artifactId>
     <name>quarkus-petstore-api-first.api</name>
