@@ -49,10 +49,11 @@
                             <generateSupportingFiles>true</generateSupportingFiles>
                             <apiPackage>io.flmendes.petstore.api</apiPackage>
                             <modelPackage>io.flmendes.petstore.model</modelPackage>
-                            <supportingFilesToGenerate>ApiUtil.java</supportingFilesToGenerate>
                             <configOptions>
-                                <delegatePattern>true</delegatePattern>
-                            </configOptions>
+                                <interfaceOnly>true</interfaceOnly>
+                                <dateLibrary>java8</dateLibrary>
+                                <java8>true</java8>
+                             </configOptions>
                         </configuration>
                     </execution>
                 </executions>
